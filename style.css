@@ -373,7 +373,7 @@ img {
 }
 @media (max-width:800px){
     .newsletter-form button {
-        font-size: 1.5em
+        font-size: 1.5em;
     }
 }
 
